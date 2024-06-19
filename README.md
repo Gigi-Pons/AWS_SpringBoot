@@ -6,6 +6,12 @@ This document provides an overview of the deployment and configuration of a Java
 
 - The full project can be found [here](https://github.com/Gigi-Pons/QuizApplication)
 
+## Running Application
+
+You can access the running application using the following link: [Quiz Application Running on AWS](http://ec2-44-232-53-0.us-west-2.compute.amazonaws.com:8080/queries/allQueries)
+
+The URL is as follows: http://ec2-44-232-53-0.us-west-2.compute.amazonaws.com:8080/queries/allQueries
+
 ## AWS Setup
 
 ### EC2 Instance
