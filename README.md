@@ -3,7 +3,8 @@
 This document provides an overview of the deployment and configuration of a Java Spring Boot application for a quiz system on AWS. The focus is on the AWS setup, including EC2 and RDS, to deploy and manage the application.
 
 **Note:** This is not the full project but rather an explanation of the deployment and configuration of the project in AWS.
-The full project can be found 
+
+- The full project can be found [here](https://github.com/Gigi-Pons/QuizApplication)
 
 ## AWS Setup
 
